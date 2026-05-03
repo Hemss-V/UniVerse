@@ -11,16 +11,17 @@ To run this script:
 3. Replace the config if necessary.
 */
 
+require('dotenv').config();
 const { initializeApp } = require("firebase/app");
 const { getFirestore, doc, setDoc } = require("firebase/firestore");
 
 const firebaseConfig = {
-    apiKey: "AIzaSyC7YToioK8NsaAhpx5LBvwJL14WlQQQXrU",
-    authDomain: "universe-19eae.firebaseapp.com",
-    projectId: "universe-19eae",
-    storageBucket: "universe-19eae.appspot.com",
-    messagingSenderId: "788889906721",
-    appId: "1:788889906721:web:8d9f9ead158a3f9a293d60"
+    apiKey: process.env.EXPO_PUBLIC_FIREBASE_API_KEY,
+    authDomain: process.env.EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN,
+    projectId: process.env.EXPO_PUBLIC_FIREBASE_PROJECT_ID,
+    storageBucket: process.env.EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: process.env.EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+    appId: process.env.EXPO_PUBLIC_FIREBASE_APP_ID
 };
 
 const app = initializeApp(firebaseConfig);
