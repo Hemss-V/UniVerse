@@ -18,7 +18,15 @@ Core features are fully implemented, including authentication, feed, chat, and l
 Additional modules such as campus navigation and professor finder are currently in progress.
 
 ## 📸 Screenshots
-(Add actual screenshots here — this is very important)
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/dff8da2d-1171-4e21-ab71-3ae5b7eeefc5" />
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/3d6537c6-e6a0-41a5-b38a-cf3deab28622" />
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/94ff9eac-e1ab-4ce9-a2d0-45b2d9548c30" />
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/98a488c9-8954-4972-8545-fdb1f9469a4c" />
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/7372f5b9-5ee1-4e81-bbdc-81ca69beba1b" />
+
+
+
+
 
 ## 💡 Highlights
 - Built end-to-end mobile application with multiple integrated features
