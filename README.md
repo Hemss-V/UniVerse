@@ -1,27 +1,26 @@
 # UniVerse – College Community App
 
-A React Native mobile app designed for college students, featuring social interaction, real-time chat, and campus utilities.
+A full-featured React Native mobile application designed to enhance campus life by combining social interaction, real-time communication, and essential student utilities into a single platform.
 
 ## 🚀 Features
-- Authentication (Login/Signup with Firebase)
-- Social Feed (Create & view posts)
-- Real-time Chat System
-- Lost & Found module
+- 🔐 Authentication system (Login/Signup with Firebase)
+- 📰 Social Feed for creating and viewing posts
+- 💬 Real-time Chat System for student communication
+- 📦 Lost & Found module for campus item tracking
 
 ## 🛠 Tech Stack
 - React Native (Expo)
-- Firebase (Auth, Firestore)
+- Firebase (Authentication, Firestore)
 - React Navigation
 
-## 📌 Status
-Core features implemented; additional modules in progress.
+## 📌 Project Status
+Core features are fully implemented, including authentication, feed, chat, and lost & found.  
+Additional modules such as campus navigation and professor finder are currently in progress.
 
 ## 📸 Screenshots
-<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/8ed66651-d0f0-4e53-be4a-b784d858e0b1" />
-<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/24a32d8a-d0d9-40ed-a1b7-c0bdf5150ff7" />
-<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/cfc0bc41-7d00-4dbc-aef8-2cd1631d5c86" />
-<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/3805b467-0153-4139-85d4-5c7eb0c0c97f" />
-<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/8ac0b081-aad9-4cd0-aa3b-09c35a366d29" />
+(Add actual screenshots here — this is very important)
 
-
-
+## 💡 Highlights
+- Built end-to-end mobile application with multiple integrated features
+- Implemented real-time communication using Firebase
+- Designed scalable architecture using React Native and modular navigation
